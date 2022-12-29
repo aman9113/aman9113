@@ -65,7 +65,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Web Dev
 <img height="114em" src="https://github-readme-streak-stats.herokuapp.com/?user=aman9113&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0"/>
 </a>
 
-![aman9113's github activity graph](<img src="https://camo.githubusercontent.com/874421d4fef837aaa2f512259050b348ad942f4b3111c28fd671d8f295513601/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e6379636c69632e6170702f67726170683f757365726e616d653d41736875746f73683030373130267468656d653d726561637426617265613d7472756526686964655f626f726465723d747275652367682d6c696768742d6d6f64652d6f6e6c79" width="100%" data-canonical-src="https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&amp;theme=react&amp;area=true&amp;hide_border=true#gh-light-mode-only" style="max-width: 100%;">)
+![aman9113's github activity graph])
 
 <b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
