@@ -31,7 +31,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Web Dev
 <br/>
 
 
-- ❤️ Developer by passion [Developer] (https://github.com/aman9113) 
+- ❤️ Developer by passion[Developer](https://github.com/aman9113) 
 - 🔭 I’m currently working on venture [RoomCares](https://www.facebook.com/roomcares/).
 - 🌱 I’m currently learning more about Cyber Security,JavaScript developer,ReactJS developer, Web Development Enthusiastic.
 - 👯 I’m looking to collaborate on [Stackoverflow](https://stackoverflow.com/users/18575240/aman-singh).
