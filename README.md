@@ -66,7 +66,7 @@ https://aman9113.github.io/portfolio_website/)
 </a>
 ## 💳 Github Profile Summary Card
 <p align="fitscreen">
-  <img height= "237 em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CoderAvi&theme=vue"/>
+  <img height= "237 em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aman9113&theme=vue"/>
 </p>
 
 
