@@ -69,6 +69,7 @@ https://aman9113.github.io/portfolio_website/)
 <p align="fitscreen">
   <img height= "237 em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aman9113&theme=vue"/>
 </p>
+![Snake animation](https://github.com/aman9113/blob/output/github-contribution-grid-snake.svg)
 
 
 <b>⚙️ Things I use to get stuff done</b></summary>
