@@ -39,7 +39,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Full St
 - 💬 Ask me about Development or any tech related stuff.
 - 📫 How to reach me: [Twitter - @Aaman0008](https://twitter.com/Aaman0008) , [LinkidIn- @AmanSingh](https://www.linkedin.com/in/aman-singh-484549202/) , [leetcode-@aman9113](https://leetcode.com/aman9113/)
 - 😄 Pronouns: He/His    
-- ⚡ Fun fact: I spend almost 6-8 hours listening podcasts & Music everyday.        
+- ⚡ Fun fact: I spend almost 4-6 hours listening podcasts & Music everyday.        
            
  
 [![Twitter: AamanSingh](https://img.shields.io/twitter/follow/AamanSingh?style=social)](https://twitter.com/Aaman0008)
