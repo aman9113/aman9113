@@ -1,5 +1,5 @@
 ### Hola, I'm [Aman Singh!!](https://aman9113.github.io/portfolio_website/)
-I am a tech enthusiast 💻 who loves programming & exploring more about Full Stack Web Developer, UI-UX Designer, Cyber Security Enthusiastic!!
+I am a tech enthusiast 💻💻💻 who loves programming & exploring more about Full Stack Web Developer, UI-UX Designer, Cyber Security Enthusiastic!!
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=aman9113&label=Profile views&color=green&style=plastic" alt="aman9113" /> 
 </p>
