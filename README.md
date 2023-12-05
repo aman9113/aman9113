@@ -87,7 +87,7 @@ https://aman9113.github.io/Portfolio_aman9113/)
 <div align="centre">
 	
 
-# Show some ❤ by starring some of the repositories!
+# Show some ❤❤ by starring some of the repositories!
 
 
 
