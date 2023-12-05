@@ -78,7 +78,7 @@ https://aman9113.github.io/Portfolio_aman9113/)
   	    <li><b>OS:</b>Dell Monterey 12.0.1</li>
 	    <li><b>Laptop: </b> MacBook Pro, Dell Inspiron 15 5000</li>
   	    <li><b>Browser: </b>Chrome & Browser</li>
-	    <li><b>Code Editor:</b> VSCode, Xcode ❤❤
+	    <li><b>Code Editor:</b> VSCode, Xcode ❤
  </li>
             <li><b>Cleverly using Dell Terminal with node.js, python Linux & git</li>
 		<li><b>Appetize.io for App Testing Purpose </li>
