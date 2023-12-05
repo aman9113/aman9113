@@ -40,7 +40,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Full St
 - 💬 Ask me about Development or any tech related stuff.
 - 📫 Feel Free to reach : [Twitter - @Aaman0008](https://twitter.com/Aaman0008) , [LinkidIn- @AmanSingh](https://www.linkedin.com/in/aman-singh-484549202/) , [leetcode-@aman9113](https://leetcode.com/aman9113/)
 - 😄 Pronouns: He/His    
-- ⚡ Fun fact: I spend almost 4-6 hours listening podcasts & Music everyday.        
+- ⚡ Fun fact: I spend almost 4-6 hours listening podcasts & Music everyday & watching moview a week.        
            
  
 [![Twitter: AamanSingh](https://img.shields.io/twitter/follow/AamanSingh?style=social)](https://twitter.com/Aaman0008)
@@ -75,9 +75,9 @@ https://aman9113.github.io/Portfolio_aman9113/)
 
 <b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b>Dell Monterey 12.0.1</li>
+  	    <li><b>OS:</b> Macbook & Dell Monterey 12.0.1</li>
 	    <li><b>Laptop: </b> MacBook Pro, Dell Inspiron 15 5000</li>
-  	    <li><b>Browser: </b>Chrome & Browser</li>
+  	    <li><b>Browser: </b>Chrome, Safari</li>
 	    <li><b>Code Editor:</b> VSCode, Xcode ❤
  </li>
             <li><b>Cleverly using Dell Terminal with node.js, python Linux & git</li>
