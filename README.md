@@ -34,6 +34,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Full St
 - ❤️ [Developer](https://github.com/aman9113) by passion.
 - ❤️ Founder & CEO of [Room Cares](https://www.facebook.com/roomcares/)
 - 🔭 I’m currently working as a Frontend Developer at [iae Global India](https://iaeglobalindia.net/).
+- 🔭 Working Freelancer at [People Per Hour](https://www.peopleperhour.com/freelancer/technology-programming/aman-singh-full-stack-developer-zajnyvna)
 - 🌱 I’m currently learning more about Digital Marketing, Wordpress, Full Stack Web Developer Enthusiastic.
 - 👯 I’m looking to collaborate on [Stackoverflow](https://stackoverflow.com/users/18575240/aman-singh).
 - 🤔 I’m looking for help with Room Care's.
