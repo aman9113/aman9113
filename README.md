@@ -76,7 +76,7 @@ https://aman9113.github.io/portfolio_website/)
 
 <b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Macbook & Dell Monterey 12.0.1</li>
+  	    <li><b>OS:</b> Macbook Pro & Dell Monterey 12.0.1</li>
 	    <li><b>Laptop: </b> MacBook Pro, Dell Inspiron 15 5000</li>
   	    <li><b>Browser: </b>Chrome, Safari</li>
 	    <li><b>Code Editor:</b> VSCode, Xcode ❤
