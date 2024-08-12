@@ -1,6 +1,6 @@
 # README.md
 <!-- Hola, I'm Aman Singh!! -->
-I am a tech enthusiast 💻 who loves programming & exploring more about Reactjs Developer, Frontend WordPress Developer, SEO, and Cyber Security.
+I am a tech enthusiast 💻💻 who loves programming & exploring more about Reactjs Developer, Frontend WordPress Developer, SEO, and Cyber Security.
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=aman9113" /> 
