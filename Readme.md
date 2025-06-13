@@ -30,7 +30,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Reactjs
 <br/>
 <br/>
 
-- ❤️ Developer by passion.
+- ❤️ Developer by passion & SEO Expert by Profession
 - ❤️ Founder & CEO of Room Cares, The tech writer.
 - 🔭 I currently work as a Frontend Developer at [iae Global India](https://iaeglobalindia.net/).
 - 🔭 Working Freelancer at [People Per Hour](https://www.peopleperhour.com/freelancer/technology-programming/aman-singh-full-stack-developer-zajnyvna)
