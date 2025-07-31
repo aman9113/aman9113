@@ -1,13 +1,15 @@
 # README.md
 <!-- Hola, I'm Aman Singh!! -->
-I am a tech enthusiast 💻 who loves programming & exploring more about Reactjs Developer, Frontend WordPress Developer, SEO, and Cyber Security.
+I am a tech enthusiast 💻 who loves programming & exploring more about Full Stack Development & Full Stack SEO Expert, Frontend WordPress Developer, SEO, SEM & , and Cyber Security.
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=aman9113" /> 
 </p>
 </p>
 </a><img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" height="400" />
 </a>
-
+<a href="[Founder & CEO](https://softmarketsolution.com/)">
+  <img align="left" alt="Founder & CEO" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+</a>
 <a href="https://twitter.com/Aaman0008">
   <img align="left" alt="Aaman0008's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
