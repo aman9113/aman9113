@@ -1,6 +1,6 @@
 # README.md
 <!-- Hola, I'm Aman Singh!! -->
-I am a tech enthusiast 💻 who loves programming & exploring more about Full Stack Development & Full Stack SEO Expert, Frontend WordPress Developer, SEO, SEM & , and Cyber Security.
+I am a tech enthusiast 💻 who loves programming & exploring more about Full Stack Web Development & Full Stack Digital Marketer, Frontend WordPress Developer, SEO, SEM & , and Cyber Security.
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=aman9113" /> 
 </p>
