@@ -32,9 +32,9 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Full St
 <br/>
 <br/>
 
-- ❤️ Developer by passion & SEO Expert by Profession
-- ❤️ Founder & CEO of Search Engine Central, Room Cares, The tech writer.
-- 🔭 I currently work as a CEO of Search Engine Central at [Search Engine Central](http://searchenginecentral.in/).
+- ❤️ Developer by passion & Full Stack Digial Marketer by Profession
+- ❤️ Founder & CEO of Soft Market Solution, Room Cares, The tech writer.
+- 🔭 I currently work as a Founder & CEO of Soft Market Solution at [Search Engine Central](https://softmarketsolution.com/).
 - 🔭 Working Freelancer at [People Per Hour](https://www.peopleperhour.com/freelancer/technology-programming/aman-singh-full-stack-developer-zajnyvna)
 - 🌱 I’m learning more about Digital Marketing, WordPress, and Full Stack Web Development.
 - 👯 I want to collaborate on [Stack Overflow](https://stackoverflow.com/users/18575240/aman-singh).
