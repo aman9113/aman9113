@@ -1,5 +1,9 @@
 # Hola, I'm Aman Singh!! 👋
 
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/88909157?v=4" width="200" alt="Aman Singh - GitHub Profile"/>
+</p>
+
 I am a tech enthusiast 💻 who loves programming and exploring more about **Full Stack Web Development, Digital Marketing, WordPress Development, SEO, SEM, and Cyber Security.**
 
 <p align="left">
@@ -7,6 +11,8 @@ I am a tech enthusiast 💻 who loves programming and exploring more about **Ful
 </p>
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" height="400" />
+
+---
 
 ### 🌐 Connect with me:
 <a href="https://softmarketsolution.com/"><img align="left" alt="Founder & CEO" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" /></a>
@@ -19,6 +25,8 @@ I am a tech enthusiast 💻 who loves programming and exploring more about **Ful
 
 <br/>
 <br/>
+
+---
 
 ### 👨‍💻 About Me
 - ❤️ Developer by passion & Full Stack Digital Marketer by profession  
@@ -42,8 +50,11 @@ I am a tech enthusiast 💻 who loves programming and exploring more about **Ful
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=aman9113&show_icons=true&locale=en&theme=algolia"/>
 </a>
 
+---
+
+### 🐍 GitHub Snake Contribution Graph
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="GitHub Snake"/>
+  <img src="https://github.com/aman9113/aman9113/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
