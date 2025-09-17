@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=36BCF7&width=500&lines=Full+Stack+Developer;Digital+Marketer;WordPress+Developer;Open+Source+Contributor;Tech+Explorer+%F0%9F%92%BB" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=SEO+Manager%2C+ROI-Driven+SEO%2C+SMO+%26+Gen+AI+Expert;White+Hat+Optimization;Freelancer+Digital+Marketer;GA4+%26+GSC+Expert;Google+Business+Profile+Expert;Chatbot+Developer;AI+%26+Prompt+Enthusiastic+🤖;Full+Stack+Web+Developer" alt="Rotating Roles"/>
 </p>
 
 ---
@@ -97,6 +97,21 @@
 - **Browser:** Chrome, Safari  
 - **Code Editor:** VSCode, Xcode ❤  
 - **Tools:** Dell Terminal with Node.js, Python, Linux & Git, Appetize.io for App Testing  
+
+---
+
+## 🚀 Current Startup
+I’m the Founder of **[Soft Market Solution](https://softmarketsolution.com/)** – a digital-first company providing these services:  
+
+- 🔗 [SEO](https://softmarketsolution.com/search-engine-optimization)  
+- 🔗 [SMO](http://softmarketsolution.com/social-media-marketing-agency)  
+- 🔗 [Web Development](https://softmarketsolution.com/web-development-service-company)  
+- 🔗 [App Development](https://softmarketsolution.com/web-development-service-company)  
+- 🔗 [Graphic Designing](https://softmarketsolution.com/graphic-design-services-company)  
+- 🔗 [Google Ads](https://softmarketsolution.com/paid-media-company)  
+- 🔗 [Meta Ads](https://softmarketsolution.com/paid-media-company)  
+- 🔗 [AI SEO / Generative Engine Optimization](https://softmarketsolution.com/answer-engine-optimization)  
+- 🔗 [Portfolio](https://softmarketsolution.com/portfolio)  
 
 ---
 
