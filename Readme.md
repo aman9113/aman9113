@@ -32,12 +32,12 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=aman9113&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman9113&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=aman9113&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" style="border-radius:10px;box-shadow:0 0 10px rgba(54,188,247,0.6);" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman9113&layout=compact&langs_count=8&theme=algolia" style="border-radius:10px;box-shadow:0 0 10px rgba(54,188,247,0.6);" />
 </p>
 
 <p align="center">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=aman9113&theme=algolia" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=aman9113&theme=algolia" style="border-radius:10px;box-shadow:0 0 10px rgba(54,188,247,0.6);" />
 </p>
 
 ---
@@ -51,14 +51,16 @@
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aman9113&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aman9113&theme=react-dark&hide_border=false&area=true" 
+       alt="Contribution Graph" 
+       style="border: 2px solid #36BCF7; border-radius: 10px; box-shadow: 0px 0px 15px rgba(54,188,247,0.6);" />
 </p>
 
 ---
 
 ## 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aman9113&theme=algolia&margin-w=10&margin-h=10" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=aman9113&theme=algolia&margin-w=10&margin-h=10&column=6" alt="Trophies"/>
 </p>
 
 ---
@@ -78,7 +80,7 @@
 ---
 
 ## 📚 Languages and Tools
-<p align="left">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,mongodb,python,java,git,github,wordpress,aws,gcp,docker,kubernetes,tailwind,bootstrap,figma" />
 </p>
 
@@ -103,15 +105,15 @@
 ## 🚀 Current Startup
 I’m the Founder of **[Soft Market Solution](https://softmarketsolution.com/)** – a digital-first company providing these services:  
 
-- 🔗 [SEO](https://softmarketsolution.com/search-engine-optimization)  
-- 🔗 [SMO](http://softmarketsolution.com/social-media-marketing-agency)  
-- 🔗 [Web Development](https://softmarketsolution.com/web-development-service-company)  
-- 🔗 [App Development](https://softmarketsolution.com/web-development-service-company)  
-- 🔗 [Graphic Designing](https://softmarketsolution.com/graphic-design-services-company)  
-- 🔗 [Google Ads](https://softmarketsolution.com/paid-media-company)  
-- 🔗 [Meta Ads](https://softmarketsolution.com/paid-media-company)  
-- 🔗 [AI SEO / Generative Engine Optimization](https://softmarketsolution.com/answer-engine-optimization)  
-- 🔗 [Portfolio](https://softmarketsolution.com/portfolio)  
+- 🔍 [SEO](https://softmarketsolution.com/search-engine-optimization)  
+- 📱 [SMO](http://softmarketsolution.com/social-media-marketing-agency)  
+- 💻 [Web Development](https://softmarketsolution.com/web-development-service-company)  
+- 📲 [App Development](https://softmarketsolution.com/web-development-service-company)  
+- 🎨 [Graphic Designing](https://softmarketsolution.com/graphic-design-services-company)  
+- 🎯 [Google Ads](https://softmarketsolution.com/paid-media-company)  
+- 📢 [Meta Ads](https://softmarketsolution.com/paid-media-company)  
+- 🤖 [AI SEO / Generative Engine Optimization](https://softmarketsolution.com/answer-engine-optimization)  
+- 🗂️ [Portfolio](https://softmarketsolution.com/portfolio)  
 
 ---
 
