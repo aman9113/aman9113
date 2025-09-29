@@ -1,5 +1,5 @@
 ## Hola, I'm [Aman!](https://github.com/aman9113) 👋  
-I am a Software Developer 💻 who loves building intelligent apps, scalable software, and exploring more about Artificial Intelligence!  
+I am a Software Developer 💻💻 who loves building intelligent apps, scalable software, and exploring more about Artificial Intelligence!  
 
 <p align="left">
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
