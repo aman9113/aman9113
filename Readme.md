@@ -1,5 +1,8 @@
-## Hola, I'm [Aman!](https://github.com/aman9113) 👋  
-I am a Software Developer 💻💻 who loves building intelligent apps, scalable software, and exploring more about Artificial Intelligence!  
+## Hola, I'm [Aman Singh](https://aman9113.github.io/portfolio_website/) 👋  
+### SEO Manager | AI SEO (GEO) Specialist | Full Stack Digital Marketer & Developer
+
+I build **scalable software + high-performing SEO systems** that drive real business growth.  
+From ranking on **Google SERPs** to visibility on **AI platforms like ChatGPT, Gemini & Perplexity**, I focus on traffic that converts into revenue.
 
 <p align="left">
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
@@ -7,75 +10,107 @@ I am a Software Developer 💻💻 who loves building intelligent apps, scalable
 </a>
 </p>
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" height="400" />
+<img align="right" alt="SEO GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" height="400" />
 
 ---
 
-### 🌐 Connect with me
-<a href="https://twitter.com/"><img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href="https://www.linkedin.com/in/aman9113/"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+### 🚀 About Me
+
+- 💼 Generated **$1M+ organic revenue** through SEO & AI SEO  
+- 📈 Delivered **100+ SEO campaigns** across industries  
+- 🤖 Specialized in **Generative Engine Optimization (GEO)** & LLM visibility  
+- 💻 Background in **Development (React, Node, WordPress)**  
+- 🔍 Strong expertise in **Technical SEO, Core Web Vitals & Indexing**  
+- 🌐 Focused on scaling traffic, rankings, and conversions  
+
+---
+
+### 🧠 What I Do
+
+- SEO Strategy (ROI-Focused)  
+- AI SEO / GEO (ChatGPT, Gemini, Perplexity, Claude)  
+- Keyword Research & Search Intent Mapping  
+- Technical SEO (Crawl, Indexation, Site Speed)  
+- Content Optimization for Google + AI Search  
+- Web Development & SEO-friendly architecture  
+
+---
+
+### 🌐 Connect With Me
+
+<a href="https://x.com/Aaman0008"><img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<a href="https://www.linkedin.com/in/aman-singh-484549202/"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://github.com/aman9113"><img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
-<a href="https://stackoverflow.com/"><img align="left" alt="Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" /></a>
-<a href="https://www.instagram.com/"><img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-<a href="https://www.facebook.com/"><img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
-<a href="https://www.youtube.com/"><img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
-<a href="https://www.hackerrank.com/"><img align="left" alt="Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" /></a>  
+<a href="https://stackoverflow.com/users/18575240/aman-singh"><img align="left" alt="Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" /></a>
+<a href="https://www.instagram.com/its__aman0008/"><img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<a href="https://www.facebook.com/amansingh.socialist/"><img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
+
 <br/>
 <br/>
 
 ---
 
-### 🚀 About Me  
-- 🔭 I’m currently working on my own projects & ventures.  
-- 🌱 Learning more about Artificial Intelligence & Algorithms.  
-- 👯 Looking to collaborate on Open Source & Startup ideas.  
-- 🤔 Open for guidance in deployment & scaling work.  
-- 💬 Ask me about Python, Android, or anything tech.  
-- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/aman9113/)** or here on GitHub.  
-- 😄 Pronouns: He/His    
-- ⚡ Fun fact: I spend hours daily listening to podcasts!  
+### ⚡ Quick Highlights
+
+- 🔭 Building **[Soft Market Solution](https://softmarketsolution.com/)**  
+- 🌱 Exploring **AI, LLMs & automation systems**  
+- 👯 Open to collaboration on **SEO, AI SEO & dev projects**  
+- 💬 Ask me about **SEO, AI tools, or development**  
+- 📫 Reach me: **amansinghajay222@gmail.com**  
+- ⚡ Fun fact: I spend hours daily learning SEO & AI trends  
 
 ---
 
-### 📊 GitHub Stats & Streaks  
+[![Twitter: Aman Singh](https://img.shields.io/twitter/follow/aman_9113?style=social)](https://twitter.com/aman9113)
+[![Linkedin: Aman Singh](https://img.shields.io/badge/-aman9113-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aman-singh-seo-expert-india/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/thatsarcasticdev/) 
+[![GitHub aman9113](https://img.shields.io/github/followers/aman9113?label=follow&style=social)](https://github.com/aman9113)
+[![website](https://img.shields.io/badge/Portfolio-aman9113.tech-2648ff?style=flat-square&logo=google-chrome)](https://aman9113.github.io/my-protfolio/)
+
+---
+
+### 🛠️ Languages and Tools  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/wordpress/wordpress.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png"></code>
+
+---
+
+### 📊 GitHub Stats  
 
 <a href="https://github.com/aman9113">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=aman9113&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aman9113&layout=compact&langs_count=6&theme=algolia"/>
 <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=aman9113&theme=algolia"/>
-</a>  
+</a>
 
 ---
 
-## 💳 Github Profile Summary Card  
+## 💳 Github Profile Summary  
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aman9113&theme=vue"/>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools  
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png"></code>  
+### ⚙️ Things I Use to Get Stuff Done
 
----
-
-### ⚙️ Things I use to get stuff done
-- 💻 **OS:** macOS / Windows  
-- 🖥️ **Laptop:** Macbook Air 2019  
-- 🌐 **Browsers:** Chrome & Safari  
-- 📝 **Code Editor:** VSCode ❤, Xcode  
-- 🛠 **Terminal:** Cleverly using macOS Terminal with Node.js, Python & Git  
-- 📱 **Testing Tools:** Appetize.io  
+- 💻 OS: macOS / Windows  
+- 🖥️ Laptop: MacBook Air  
+- 🌐 Browsers: Chrome & Safari  
+- 📝 Code Editor: VSCode ❤  
+- ⚙️ Stack: Node.js, Python, Git  
+- 📱 Testing Tools: Appetize.io  
 
 ---
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories! ⭐
+### ⭐ If you like my work, consider starring the repositories!
 
 </div>
