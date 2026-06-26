@@ -1,4 +1,4 @@
-## Hola, I'm [Aman Singh](https://aman9113.github.io/portfolio_website/) 👋  
+## Hola, I'm [Aman Singh](https://aman9113.github.io/portfolio_website/) 👋 👋  
 ### SEO Manager | AI SEO (GEO) Specialist | Full Stack Digital Marketer & Developer
 
 I build **scalable software + high-performing SEO systems** that drive real business growth.  
