@@ -16,8 +16,8 @@ From ranking on **Google SERPs** to visibility on **AI platforms like ChatGPT, G
 
 ### 🚀 About Me
 
-- 💼 Generated **$1M+ organic revenue** through SEO & AI SEO  
-- 📈 Delivered **100+ SEO campaigns** across industries  
+- 💼 Generated **$1.5M+ organic revenue** through SEO & AI SEO  
+- 📈 Delivered **120+ SEO campaigns** across industries  
 - 🤖 Specialized in **Generative Engine Optimization (GEO)** & LLM visibility  
 - 💻 Background in **Development (React, Node, WordPress)**  
 - 🔍 Strong expertise in **Technical SEO, Core Web Vitals & Indexing**  
