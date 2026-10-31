@@ -44,10 +44,10 @@ My work focuses on traditional search engines like Google and emerging AI search
 - 📈 Delivered **100+ SEO campaigns** across multiple industries.
 - 🏆 Ranked **15,000+ keywords in Google's Top 5**.
 - 🎯 Ranked **25,000+ keywords in Google's Top 10**.
-- 📊 Increased organic traffic to **From 200-300 Users/ Month to 10.6k+/Month in just 3 months**.
+- 📊 Increased organic traffic from **200–300 users/month to 10.6K+ users/month in just 3 months**.
 - 🌐 Managed websites generating **100K+ monthly organic traffic**.
-- 🤖 Specialized in Generative Engine Optimization (GEO), Answer Engine Optimization (AEO), AI SEO Rank Your Website On LLMs Models.
-- 📊 Industries Worked With E-commerce & D2C, Real Estate, Healthcare & Wellness, Education & EdTech, SaaS & Technology, Hospitality & Travel, Professional Services, Manufacturing & B2B, Beauty, Fashion & Lifestyle and  Fashion and Lifestyle.
+- 🤖 Specialized in Generative Engine Optimization (GEO), Answer Engine Optimization (AEO), and AI SEO for LLM visibility.
+- 📊 Industries: E-commerce & D2C, Real Estate, Healthcare & Wellness, Education & EdTech, SaaS & Technology, Hospitality & Travel, Professional Services, Manufacturing & B2B, Beauty, Fashion & Lifestyle.
 - 💻 Experienced in Web Design, WordPress, Shopify, React, Node.js, PHP, and JavaScript.
 
 ---
@@ -122,14 +122,14 @@ I provide digital growth and development services covering the complete online m
 <p align="center">
   <img src="https://img.shields.io/badge/Organic_Revenue-%241.5M%2B-16A34A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SEO_Campaigns-100%2B-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Top_5_Keywords-250%2B-9333EA?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Top_10_Keywords-350%2B-F59E0B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Top_5_Keywords-15K%2B-9333EA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Top_10_Keywords-25K%2B-F59E0B?style=for-the-badge" />
 </p>
 
 - Generated over $1.5 million in organic revenue.
-- Ranked 250+ keywords in Google's Top 5 positions.
-- Ranked 350+ keywords in Google's Top 10 results.
-- Improved organic traffic to 10K+ within three months.
+- Ranked 15,000+ keywords in Google's Top 5 positions.
+- Ranked 25,000+ keywords in Google's Top 10 results.
+- Improved organic traffic from 200–300 to 10.6K+ users/month within three months.
 - Managed websites with 100K+ monthly organic visitors.
 - Worked across e-commerce, healthcare, D2C, SaaS, B2B, finance, real estate, travel, and manufacturing.
 - Helped businesses recover from Google algorithm updates.
@@ -142,13 +142,13 @@ I provide digital growth and development services covering the complete online m
 ### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,php,html,css,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,php,java,cpp,go,rust" />
 </p>
 
 ### Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,angular,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,svelte,nuxt,astro" />
 </p>
 
 ### Backend Development
@@ -160,22 +160,24 @@ I provide digital growth and development services covering the complete online m
 ### CMS & E-commerce
 
 <p>
-  <img src="https://skillicons.dev/icons?i=wordpress,shopify" />
+  <img src="https://skillicons.dev/icons?i=wordpress,shopify,joomla,drupal,magento,woocommerce" />
 </p>
 
 ### Development & Productivity Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker" />
 </p>
 
 ### Technical Expertise
 
 - WordPress Development & Customization
 - Shopify Development & E-commerce Optimization
+- Joomla & Drupal CMS Management
+- Magento & WooCommerce Development
 - PHP & MySQL
-- JavaScript & React
-- Angular & Laravel
+- JavaScript, TypeScript & React
+- Angular, Vue.js & Next.js
 - Node.js Development
 - Website Speed Optimization
 - Core Web Vitals
@@ -212,7 +214,7 @@ I provide digital growth and development services covering the complete online m
     <img src="https://img.shields.io/badge/GitHub-aman9113-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://stackoverflow.com/users/18575240/aman-singh">
-    <img src="https://img.shields.io/badge/Stack_Overflow-Aman_Falcon-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/Stack_Overflow-Aman_Singh-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/its__aman0008/">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
