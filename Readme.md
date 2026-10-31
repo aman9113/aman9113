@@ -42,12 +42,13 @@ My work focuses on traditional search engines like Google and emerging AI search
 
 - 💰 Generated **$1.5M+ in organic revenue** through SEO and AI SEO.
 - 📈 Delivered **100+ SEO campaigns** across multiple industries.
-- 🏆 Ranked **250+ keywords in Google's Top 5**.
-- 🎯 Ranked **350+ keywords in Google's Top 10**.
-- 📊 Increased organic traffic to **10K+ in just 3 months**.
+- 🏆 Ranked **15,000+ keywords in Google's Top 5**.
+- 🎯 Ranked **25,000+ keywords in Google's Top 10**.
+- 📊 Increased organic traffic to **From 200-300 Users/ Month to 10.6k+/Month in just 3 months**.
 - 🌐 Managed websites generating **100K+ monthly organic traffic**.
-- 🤖 Specialized in Generative Engine Optimization (GEO).
-- 💻 Experienced in WordPress, Shopify, React, Node.js, PHP, and JavaScript.
+- 🤖 Specialized in Generative Engine Optimization (GEO), Answer Engine Optimization (AEO), AI SEO Rank Your Website On LLMs Models.
+- 📊 Industries Worked With E-commerce & D2C, Real Estate, Healthcare & Wellness, Education & EdTech, SaaS & Technology, Hospitality & Travel, Professional Services, Manufacturing & B2B, Beauty, Fashion & Lifestyle and  Fashion and Lifestyle.
+- 💻 Experienced in Web Design, WordPress, Shopify, React, Node.js, PHP, and JavaScript.
 
 ---
 
